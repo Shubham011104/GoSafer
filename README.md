@@ -1,4 +1,4 @@
-# GoSafer: A Smart Women Safety Application
+# GoSafer: Smart Women Safety Application with AI-Driven Safe Routing & Emergency Response
 
 [![Flutter](https://img.shields.io/badge/Flutter-v3.22+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.100+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
